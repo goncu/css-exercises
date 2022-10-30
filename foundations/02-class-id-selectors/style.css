@@ -1,0 +1,20 @@
+.odd {
+    background-color: rgb(238, 110, 132);
+    font-family: "Verdana"' "DejaVu Sans' sans-serif";
+}
+
+#kimlik1 {
+    color: rgb(19, 19, 224);
+    font-size: 36px;
+}
+
+.cool {
+    font-size: 24px;
+
+}
+
+#kimlik2 {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
